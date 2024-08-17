@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "Pipeline - WWI from copy activity"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "cee7ae63-e4b4-45b7-aebd-f393c7f631fb"
+  }
+}
